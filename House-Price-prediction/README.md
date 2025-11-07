@@ -28,7 +28,7 @@ Longitude: Block group longitude
 🛠️ Technologies and Libraries
 Python
 
-Jupyter/Colab Notebook
+Colab Notebook
 
 pandas (for data manipulation)
 
