@@ -1,4 +1,4 @@
-# CHD Prediction Project — Interview Summary**
+# CHD Prediction Project 
 
 
 # **1. Problem Statement**
@@ -127,8 +127,3 @@ The model successfully predicts 10-year CHD risk.
   * Adding feature engineering
 
 ---
-
-# 💥 **The One-Line Summary for Interview**
-
-> “I built an end-to-end machine learning model that predicts 10-year heart disease risk using Logistic Regression. I cleaned the data, performed EDA, scaled features, trained the model, evaluated it using metrics like ROC-AUC, and even demonstrated real patient predictions.”
-
