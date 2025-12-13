@@ -35,8 +35,11 @@ The project includes a trained ML model and an interactive **Streamlit web appli
 ## 📂 Project Structure
 
 ├── fraud_detection.py # Streamlit application
+
 ├── fraud_detection_model.pkl # Trained ML model
+
 ├── analysis_Dataset.ipynb # EDA, preprocessing & training
+
 ├── README.md
 
 
