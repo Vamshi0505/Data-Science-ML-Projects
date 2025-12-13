@@ -33,3 +33,54 @@ The project includes a trained ML model and an interactive **Streamlit web appli
 ---
 
 ## 📂 Project Structure
+
+├── fraud_detection.py # Streamlit application
+├── fraud_detection_model.pkl # Trained ML model
+├── analysis_Dataset.ipynb # EDA, preprocessing & training
+├── README.md
+
+
+---
+
+## 🚀 How to Run the Project
+
+1. Clone the repository
+```bash
+git clone <repo-url>
+cd fraud-detection-system
+
+
+Install dependencies
+
+pip install -r requirements.txt
+
+
+Run the Streamlit app
+
+streamlit run fraud_detection.py
+
+🔍 Model Inputs
+
+Transaction Type
+
+Amount
+
+Sender old & new balance
+
+Receiver old & new balance
+
+📈 Output
+
+0 → Legit Transaction
+
+1 → Fraudulent Transaction
+
+🎯 Use Cases
+
+Banking & financial institutions
+
+Payment gateways
+
+Risk analysis teams
+
+Fraud monitoring systems
